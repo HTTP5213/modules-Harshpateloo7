@@ -8,6 +8,7 @@ describe('The Shire', function() {
 });
 describe('statement', function() {
 	it('Should return the correct string', () => {
-		expect(statement()).to.equal('The Shire was founded 739 years before Buckland.');
-	});
+	expect(statement()).to.equal('The Shire was founded 739 years before Buckland.');
+	
+    });
 });
