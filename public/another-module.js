@@ -9,5 +9,6 @@ var eriadorDetails = 'In the northwest of Middle-earth, Eriador was the region b
 	}
 };
 export var theShire = new HobbitSettlement('The Shire', 1601, ['Marcho', 'Blanco']);
+
 export var buckland = new HobbitSettlement('Buckland', 2340, 'Gorhendad Oldbuck');
 
